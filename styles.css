@@ -1,0 +1,6 @@
+body {
+    background: #510069; /* Color del fondo (este nuunca se veera) */
+    background: -webkit-linear-gradient(45deg, #42cca2, #185a9d); /* Color del fondo bonito */
+    background: linear-gradient(45deg, #42cca2, #185a9d); /* Color del fondo bonito */
+    min-height: 100vh;
+}
